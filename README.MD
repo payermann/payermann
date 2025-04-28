@@ -5,4 +5,4 @@ I'm interested in web development
 - I am currently researching HTML, CSS, JavaScript, Python
 - Currently working on my portfolio
 
-📧 [payermann@gmail.com](mailto:payermann@gmail.com)
+📧 [felix.job2025@outlook.de](mailto:felix.job2025@outlook.de)
